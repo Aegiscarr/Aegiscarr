@@ -7,6 +7,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=flat-square&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-%23191919?style=flat-square&logo=python)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3)
+![JS](https://img.shields.io/badge/JS-%23191919?style=flat-square&logo=javascript)
 
 ### Software
 ![Unity](https://img.shields.io/badge/Unity-%23232323?style=flat-square&logo=unity)
