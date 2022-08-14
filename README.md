@@ -1,4 +1,6 @@
-## Heyo, the name's Aegis!
+Yep, this place needs some work. *sigh*
+
+Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD MYSELF TO THAT
 
 ### Languages
 ![CS](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp)
@@ -9,6 +11,7 @@
 ### Software
 ![Unity](https://img.shields.io/badge/Unity-%23232323?style=flat-square&logo=unity)
 ![GIMP](https://img.shields.io/badge/GIMP-%235C5543?style=flat-square&logo=gimp)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs)
 
 <!--
 **Aegiscarr/Aegiscarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
