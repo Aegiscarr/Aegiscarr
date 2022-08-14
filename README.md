@@ -15,6 +15,9 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![Node.js](https://img.shields.io/badge/Node.js-%23191919?style=flat-square&logo=nodedotjs)
 ![Blender](https://img.shields.io/badge/Blender-%23191919?style=flat-square&logo=blender)
 
+### Current Project
+I'm writing a custom Twitch chatbot named [EviscerateTheSynth](https://twitch.tv/evisceratethesynth). No public source because, well, oauth.
+
 <!--
 **Aegiscarr/Aegiscarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
