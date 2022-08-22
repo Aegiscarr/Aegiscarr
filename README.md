@@ -8,6 +8,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![Python](https://img.shields.io/badge/-Python-%23191919?style=flat-square&logo=python)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JS-%23191919?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-%23191919?style=flat-square&logo=html5)
 
 ### Software
 ![Unity](https://img.shields.io/badge/Unity-%23232323?style=flat-square&logo=unity)
@@ -15,8 +16,11 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![Node.js](https://img.shields.io/badge/Node.js-%23191919?style=flat-square&logo=nodedotjs)
 ![Blender](https://img.shields.io/badge/Blender-%23191919?style=flat-square&logo=blender)
 
-### Current Project
+### Current Projects
 I'm writing a custom Twitch chatbot named [EviscerateTheSynth](https://twitch.tv/evisceratethesynth). No public source because, well, oauth.
+I'm also working on my new site, [aegiscarr.github.io](https://aegiscarr.github.io).
+
+All that to try and learn HTML/CSS/JS. This is pain but it works.
 
 <!--
 **Aegiscarr/Aegiscarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
