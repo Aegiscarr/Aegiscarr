@@ -15,6 +15,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![GIMP](https://img.shields.io/badge/GIMP-%235C5543?style=flat-square&logo=gimp)
 ![Node.js](https://img.shields.io/badge/Node.js-%23191919?style=flat-square&logo=nodedotjs)
 ![Blender](https://img.shields.io/badge/Blender-%23191919?style=flat-square&logo=blender)
+![Inkscape](https://img.shields.io/badge/Inkscape-%23000000?style=flat-square&logo=inkscape)
 
 ### Current Projects
 I'm writing a custom Twitch chatbot named [EviscerateTheSynth](https://twitch.tv/evisceratethesynth). No public source because, well, oauth.
