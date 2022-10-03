@@ -9,6 +9,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JS-%23191919?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-%23191919?style=flat-square&logo=html5)
+![Svelte](https://img.shields.io/badge/Svelte-%23191919?style=flat-square&logo=svelte)
 
 ### Software
 ![Unity](https://img.shields.io/badge/Unity-%23232323?style=flat-square&logo=unity)
@@ -19,7 +20,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 
 ### Current Projects
 I'm writing a custom Twitch chatbot named [EviscerateTheSynth](https://twitch.tv/evisceratethesynth). No public source because, well, oauth.
-I'm also working on my new site, [aegiscarr.github.io](https://aegiscarr.github.io).
+I'm also working on my new site, [aegiscarr.com](https://aegiscarr.com).
 
 All that to try and learn HTML/CSS/JS. This is pain but it works.
 
