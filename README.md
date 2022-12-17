@@ -10,6 +10,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![JS](https://img.shields.io/badge/JS-%23191919?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-%23191919?style=flat-square&logo=html5)
 ![Svelte](https://img.shields.io/badge/Svelte-%23191919?style=flat-square&logo=svelte)
+![Go](https://img.shields.io/badge/Go-%23191919?style=flat-square&logo=go)
 
 ### Software
 ![Unity](https://img.shields.io/badge/Unity-%23232323?style=flat-square&logo=unity)
