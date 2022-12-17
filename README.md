@@ -20,7 +20,7 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![Inkscape](https://img.shields.io/badge/Inkscape-%23000000?style=flat-square&logo=inkscape)
 
 ### Current Projects
-I'm writing a custom Twitch chatbot named [EviscerateTheSynth](https://twitch.tv/evisceratethesynth). No public source because, well, oauth.
+I'm writing a custom Discord bot named [EviscerateTheSynth](https://discord.gg/SJcAWEynbj). Source code available at https://github.com/aegiscarr/evisceratego. \
 I'm also working on my new site, [aegiscarr.com](https://aegiscarr.com).
 
 All that to try and learn HTML/CSS/JS. This is pain but it works.
