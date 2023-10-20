@@ -1,6 +1,6 @@
-Yep, this place needs some work. *sigh*
+Yep, this place needs some work... But projects first, details later.
 
-Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD MYSELF TO THAT
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aegiscarr&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 ![CS](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp)
@@ -13,29 +13,12 @@ Projects first, details later. *distantly* NOW CAN SOMEONE TELL ME HOW TO HOLD M
 ![Go](https://img.shields.io/badge/Go-%23191919?style=flat-square&logo=go)
 
 ### Software
-![Unity](https://img.shields.io/badge/Unity-%23232323?style=flat-square&logo=unity)
 ![GIMP](https://img.shields.io/badge/GIMP-%235C5543?style=flat-square&logo=gimp)
 ![Node.js](https://img.shields.io/badge/Node.js-%23191919?style=flat-square&logo=nodedotjs)
 ![Blender](https://img.shields.io/badge/Blender-%23191919?style=flat-square&logo=blender)
 ![Inkscape](https://img.shields.io/badge/Inkscape-%23000000?style=flat-square&logo=inkscape)
 
 ### Current Projects
-I'm writing a custom Discord bot named [EviscerateTheSynth](https://discord.gg/SJcAWEynbj). Source code available at https://github.com/aegiscarr/evisceratego. \
-I'm also working on my new site, [aegiscarr.com](https://aegiscarr.com).
-
-All that to try and learn HTML/CSS/JS. This is pain but it works.
-
-<!--
-**Aegiscarr/Aegiscarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[EviscerateTheSynth](https://discord.gg/SJcAWEynbj) // My own home-grown discord bot. \
+[QoiConvert](https://github.com/aegiscarr/QoiConvert) // Image converter for the QOI format \
+[aegiscarr.com](https://aegiscarr.com) 
