@@ -23,5 +23,4 @@ programmer // furry // vrdj // artist \
 
 ### Current Projects
 [EviscerateTheSynth](https://discord.gg/SJcAWEynbj) // My own home-grown discord bot. \
-[QoiConvert](https://github.com/aegiscarr/QoiConvert) // Image converter for the QOI format \
 [aegiscarr.com](https://aegiscarr.com) 
