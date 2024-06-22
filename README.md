@@ -1,6 +1,6 @@
 ### Hi! I'm Aegiscarr.
 programmer // furry // vrdj // artist \
-[discord](https://aegiscarr.com/discord) // [bluesky](https://aegiscarr.com/bsky) // [mastodon](https://aegiscarr.com/mstdn) // [kofi](https://aegiscarr.com/donate)
+[discord](https://aegiscarr.com/discord) // [bluesky](https://aegiscarr.com/bsky) // [buymeacoffee](https://aegiscarr.com/donate)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aegiscarr&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
