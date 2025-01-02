@@ -23,4 +23,4 @@ programmer // furry // vrdj // artist \
 
 ### Current Projects
 [EviscerateTheSynth](https://discord.gg/SJcAWEynbj) // My own home-grown discord bot. \
-[aegiscarr.com](https://aegiscarr.com) 
+[aegiscarr.cc](https://aegiscarr.cc) 
