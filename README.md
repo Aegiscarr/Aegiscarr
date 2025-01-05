@@ -18,3 +18,4 @@ proxmox based home server eventually tho
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/386539887123365909)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/386539887123365909)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/386539887123365909)](https://dev.discordprofiles.me/openspotify/386539887123365909)
+well thats broken
